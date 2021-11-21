@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="img_youtube">
+    <file>youtube.jpeg</file>
+  </qresource>
+</RCC>
